@@ -6,7 +6,7 @@ using Sitecore.Shell;
 
 namespace Sitecore.Support.Shell
 {
-    public class DownLoadPage : Sitecore.Shell.DownloadPage
+    public class DownloadPage : Sitecore.Shell.DownloadPage
     {
         protected override void OnPreRender(EventArgs e)
         {
